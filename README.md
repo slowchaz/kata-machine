@@ -1,15 +1,4 @@
-## Developed live on twitch
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
-### If you have a suggestion
-make an issue and we will come up with the potential name.
-
-### WARNING
-I have just started to add algorithms, so the number of supported algorithms is
-limited at the moment, but will grow fairly quick.
-
-### WARNING
-OUT OF DATE.  We have quite a few more.  need to update
 ### Supported Algorithm
 * Insertion sort
 * Merge sort
